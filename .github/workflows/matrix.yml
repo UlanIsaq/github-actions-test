@@ -1,5 +1,6 @@
-name: 
-on: 
+name: Matrix 
+
+on: push 
 jobs:
   node-version:
     runs-on: ubuntu-latest
